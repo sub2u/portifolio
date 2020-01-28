@@ -519,6 +519,7 @@ nav ul li a {
 #contact {
   height: auto;
   width: 100%;
+  background: #f7f7f7;
 }
 
 .contact-details {
@@ -573,7 +574,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #footer {
-  background: #f7f7f7;
+  /* background: #f7f7f7; */
   padding-top: 50px;
   padding-bottom: 50px;
 }
